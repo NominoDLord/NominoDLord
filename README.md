@@ -1,19 +1,27 @@
 ![Logo](img/Logo.svg)
 
-## Descripción personal:
+## <center> Descripción General </center>
 
-A todo aquel que de casualidad haya encontrado este pequeño (y querido) rincón de la Web.
+Si estás leyendo esto, significa que tienes la suficiente capacidad como para entender y procesar datos.
 
-Esta cuenta (mi cuenta) tiene distintas finalidades:
+En ese caso... ¡Te doy la bienvenida!
 
-1r. Para aquellos que se estén iniciando, tienen multitud de recursos que pueden consultar para aprender.
-2n. Reclutamiento para un proyecto de IA.
+Mi 'nombre' es Nômino, soy de Barcelona y esta es mi cuenta de GitHub donde voy creando nuevo material o actualizando el ya existente.
+
+Todo el material se organiza dentro de los repositorios, los cuales, yo los he clasificado de la siguiente forma:
+
+- Aprendizaje
+- Recursos
+- Proyectos
+- Diseño
 
 
+Si quieres tener una idea más detallada sobre el contenido que se genera este lugar, te recomiendo acceder al siguiente enlace:
 
-Nômino D Lord
+- [GitHub](https://nominodlord.github.io)
 
-Barcelona, Spain
+Este enlace dirige a mi página web personal creada dentro de uno de mis repositorios de GitHub (totalmente gratuita).
+
 
 ## Enlaces:
 
