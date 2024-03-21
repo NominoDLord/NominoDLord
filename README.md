@@ -1,132 +1,40 @@
 ![Logo](img/Logo.svg)
 
-## <center> Descripción General </center>
+## <span style="display: block; text-align: center;"> · : DESCRIPCIÓN GENERAL : · </span>
 
-Si estás leyendo esto, significa que tienes la suficiente capacidad como para entender y procesar datos.
+Yo te saludo, persona desconocida que ha encontrado este pequeño espacio creado por mi.
 
-En ese caso... ¡Te doy la bienvenida!
+Soy Nômino y en estos momentos te encuentras navegando entre mis dominios.
 
-Mi 'nombre' es Nômino, soy de Barcelona y esta es mi cuenta de GitHub donde voy creando nuevo material o actualizando el ya existente.
+El contenido que se va publicando se divide en 3 secciones:
 
-Todo el material se organiza dentro de los repositorios, los cuales, yo los he clasificado de la siguiente forma:
+- Contenido Didáctico:
 
-- Aprendizaje
-- Recursos
-- Proyectos
-- Diseño
+	- Cursos
+	- GAMES
+	- MyCheatSheet
+	- MyModuls
 
+- Proyectos en desarrollo:
 
-Si quieres tener una idea más detallada sobre el contenido que se genera este lugar, te recomiendo acceder al siguiente enlace:
+	- MyTelegram
+	- Generador-de-Apuestas → Programa sobre resolución estadística en los juegos de azar.
+	- ChronoLife → Aplicación Android: Organización, seguimiento, evaluación estadística, notificaciones, calendario de tareas, creación de objetivos, tiempos de ejecución...
+	- A-MaNDa → Desarrollo de una Consciencia Artificial.
+
+- Material Artístico:
+
+	- This Is (~~My~~) World → Novela en desarrollo (Temporalmente Oculto).
+
+***
+
+Accede a mi WEB personal para obtener más información sobre el contenido que se va publicando.
 
 - [GitHub](https://nominodlord.github.io)
 
-Este enlace dirige a mi página web personal creada dentro de uno de mis repositorios de GitHub (totalmente gratuita).
 
+Si tienes alguna sugerencia, pregunta, idea sobre algún proyecto que tengas en mente o quieres ofrecer tu apoyo en la ejecución de alguno de los proyectos que tengo en desarrollo...
 
-## Enlaces:
+Contacta conmigo enviando tus comentarios:
 
-> [GitHub](https://nominodlord.github.io)
-
-> [LinkedIn](https://www.linkedin.com/in/ferran-ferrando-mart%C3%ADnez-459a68227)
-
-> [Telegram](https://t.me/NominoDLord)
-
-> [Blog](https://nominoblogdotorg.wordpress.com)
-
-
-
-## REPOSITORIOS:
-
-- NominoDLord
-
-Presentación cuenta GitHub
-
-
-
-- NominoDLord.github.io
-
-Repositorio Dominio WEB
-
-
-
-- Novel-This_Is_My_World (oculto)
-
-Novela
-
-
-
-### Recursos
-
-
-- MyCheatSheet
-
-
-
-
-- MyModuls
-
-
-
-- Cursos
-
-
-
-### Proyectos
-
-###### PC/Laptop
-
-- Generador-de-Apuestas
-
-###### API
-
-- MyTelegram
-
-###### Android
-
-- [ ] ChronoTask <!-- (Definir nombre) -->
-
-
-
-###### Games
-
-- Mini-Games
-
-Juegos clásicos (sencillos) en distintos lenguajes de programación a modo de práctico.
-
-
-
-## A-MaNDa
-
-- Proyecto sobre Inteligencia Artificial.
-
-
-
-
-
-
-
-
-***
-***
-
-## CHECK LIST
-
-- [ ] Proyecto - Android - ChronoTask {Next}
-- [ ] Proyecto - WEB {En proceso]
-- [ ] Proyecto - IA - A-MaNDa {Stop}
-
-
-<!--
-**NominoDLord/NominoDLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[nominodlord@mailfence.com](nominodlord@mailfence.com)
