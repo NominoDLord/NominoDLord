@@ -1,40 +1,36 @@
 ![Logo](img/Logo.svg)
 
-## <span style="display: block; text-align: center;"> · : DESCRIPCIÓN GENERAL : · </span>
+<h1 align="center">¡Saludos, cibernauta!</h2>
 
-Yo te saludo, persona desconocida que ha encontrado este pequeño espacio creado por mi.
+En estos momentos te encuentras navegando entre mis dominos ciberespaciales.
 
-Soy Nômino y en estos momentos te encuentras navegando entre mis dominios.
+Soy **Nômino**, un entusiasta navegante tanto de lo conocido como de lo desconocido.
 
-El contenido que se va publicando se divide en 3 secciones:
+En este rincón del ciberespacio vas a poder acceder a algunos de mis proyectos, trabajos, ideas y experimentos.
 
-- Contenido Didáctico:
+##
+### 🚧 Proyectos en desarrollo
 
-	- Cursos
-	- GAMES
-	- MyCheatSheet
-	- MyModuls
+> [!WARNING]
+> *¡¡¡Próximamente!!! ¡¡¡Estoy de reformas!!!*
 
-- Proyectos en desarrollo:
+##
+### ¿Quieres saber más sobre mi trabajo, novedades o recursos?  
 
-	- MyTelegram
-	- Generador-de-Apuestas → Programa sobre resolución estadística en los juegos de azar.
-	- ChronoLife → Aplicación Android: Organización, seguimiento, evaluación estadística, notificaciones, calendario de tareas, creación de objetivos, tiempos de ejecución...
-	- A-MaNDa → Desarrollo de una Consciencia Artificial.
+### Visita mi web:
+ 🌐 [nominodlord.github.io](https://nominodlord.github.io)
 
-- Material Artístico:
+##
 
-	- This Is (~~My~~) World → Novela en desarrollo (Temporalmente Oculto).
+### ¿Alguna cosa más...?
 
-***
+- ❓ preguntas
+- ❓ sugerencias
+- ❓ ideas
+- ❓ colaboración
+- ❓ presupuestos
+- ❓ contratos
+- ❓ una pizza
 
-Accede a mi WEB personal para obtener más información sobre el contenido que se va publicando.
-
-- [GitHub](https://nominodlord.github.io)
-
-
-Si tienes alguna sugerencia, pregunta, idea sobre algún proyecto que tengas en mente o quieres ofrecer tu apoyo en la ejecución de alguno de los proyectos que tengo en desarrollo...
-
-Contacta conmigo enviando tus comentarios:
-
-[nominodlord@mailfence.com](nominodlord@mailfence.com)
+### Puedes contactar conmigo por e-mail:
+📬 [nominodlord@mailfence.com](mailto:nominodlord@mailfence.com)
