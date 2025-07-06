@@ -1,12 +1,12 @@
 ![Logo](img/Logo.svg)
+---
+<h3 align="center">¡Saludos, cibernauta!</h2>
 
-<h1 align="center">¡Saludos, cibernauta!</h2>
-
-En estos momentos te encuentras navegando entre mis dominos ciberespaciales.
-
-Soy **Nômino**, un entusiasta navegante tanto de lo conocido como de lo desconocido.
-
-En este rincón del ciberespacio vas a poder acceder a algunos de mis proyectos, trabajos, ideas y experimentos.
+> En estos momentos te encuentras navegando entre mis dominos ciberespaciales.
+> 
+> Soy **Nômino**, un entusiasta navegante tanto de lo conocido como de lo desconocido.
+> 
+> En este rincón del ciberespacio vas a poder acceder a algunos de mis proyectos, trabajos, ideas y experimentos.
 
 ##
 ### 🚧 Proyectos en desarrollo
